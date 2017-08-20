@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D365FodyLogging", "D365FodyLogging\D365FodyLogging.csproj", "{55C3760C-396A-4DAE-A217-E4CBCD73302B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55C3760C-396A-4DAE-A217-E4CBCD73302B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C3760C-396A-4DAE-A217-E4CBCD73302B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C3760C-396A-4DAE-A217-E4CBCD73302B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C3760C-396A-4DAE-A217-E4CBCD73302B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B1AB049-3450-45DE-BBE7-9F5ED3F1C7B0}
+	EndGlobalSection
+EndGlobal
